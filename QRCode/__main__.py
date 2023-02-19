@@ -1,3 +1,3 @@
 import os,sys
 
-os.system ("")
+os.system("node index.js")
