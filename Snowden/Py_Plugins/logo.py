@@ -4,4 +4,4 @@ LOGO = """
 
 """
 
-print (f{"LOGO"})
+print (f"{LOGO}")
