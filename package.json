@@ -8,12 +8,8 @@
     "start": "node index.js"
   },
   "keywords": [
-    "termux",
     "whatsapp",
     "2021",
-    "wabase-md",
-    "base",
-    "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
