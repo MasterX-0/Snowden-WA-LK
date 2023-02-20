@@ -14,8 +14,8 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Naze Dev.",
-  "license": "MIT",
+  "author": "MasterX.",
+  "license": "GPL-3.0",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
